@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="0.236283in" width="0.309722in" viewBox="0 0 7.86694 6.0016" baseProfile="tiny"  version="1.2" x="0in" y="0in">
+    <desc >
+        <referenceFile >spdt-switch.svg</referenceFile>
+    </desc>
+    <g  id="connector0pin" gorn="0.1">
+        <line class="other" stroke-width="0.254"  stroke-linecap="round" y1="3.0008" y2="1.7308" stroke="#000000" x1="2.66347" x2="5.20347"/>
+        <line class="other" stroke-width="0.127"  stroke-linecap="round" y1="5.5408" y2="5.5408" stroke="#000000" x1="5.20347" x2="5.83847"/>
+        <line class="other" stroke-width="0.1524"  stroke-linecap="round" y1="0.4608" y2="0.4608" stroke="#000000" x1="5.20347" x2="5.83847"/>
+        <circle fill="none" class="other" stroke-width="0.2032"  r="0.3592" cx="5.20347" stroke="#000000" cy="0.4608"/>
+        <circle fill="none" class="other" stroke-width="0.2032"  r="0.3592" cx="5.20347" stroke="#000000" cy="5.5408"/>
+        <circle fill="none" class="other" stroke-width="0.2032"  r="0.3592" cx="2.66347" stroke="#000000" cy="3.0008"/>
+        <line class="pin" stroke-width="0.246944" connectorname="P"  stroke-linecap="round" y1="3.0008" y2="3.0008" stroke="#787878" x1="0.123472" x2="2.66347"/>
+        <rect height="0.0001" width="0.0001" fill="none" class="terminal" stroke-width="0"  stroke="none" x="0.123472" y="3.0008"/>
+        <text font-size="0.881944" text-anchor="middle" fill="#8c8c8c" class="text" stroke-width="0"  font-family="'Droid Sans'" stroke="none" x="1.39347" y="2.63038">2</text>
+        <line class="pin" stroke-width="0.246944" connectorname="S"  id="connector2pin" stroke-linecap="round" y1="5.5408" y2="5.5408" stroke="#787878" gorn="0.1.9" x1="7.74347" x2="5.20347"/>
+        <rect height="0.0001" width="0.0001" fill="none" class="terminal" stroke-width="0"  id="connector2terminal" stroke="none" x="7.74347" y="5.5408" gorn="0.1.10"/>
+        <text font-size="0.881944" text-anchor="middle" fill="#8c8c8c" class="text" stroke-width="0"  font-family="'Droid Sans'" stroke="none" x="6.47347" y="5.17038">3</text>
+        <line class="pin" stroke-width="0.246944" connectorname="O"  id="connector1pin" stroke-linecap="round" y1="0.4608" y2="0.4608" stroke="#787878" gorn="0.1.12" x1="7.74347" x2="5.20347"/>
+        <rect height="0.0001" width="0.0001" fill="none" class="terminal" stroke-width="0"  stroke="none" x="7.74347" y="0.4608"/>
+        <text font-size="0.881944" text-anchor="middle" fill="#8c8c8c" class="text" stroke-width="0"  font-family="'Droid Sans'" stroke="none" x="6.47347" y="0.090384">1</text>
+    </g>
+</svg>

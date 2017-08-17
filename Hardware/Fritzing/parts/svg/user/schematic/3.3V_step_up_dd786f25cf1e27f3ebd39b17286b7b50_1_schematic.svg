@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" height="0.9in" y="0in" baseProfile="tiny" viewBox="0 0 22.86 22.86" width="0.9in"  version="1.2">
+    <desc>
+        <referenceFile>NCP1400_5V_Step-Up_v11_schematic.svg</referenceFile>
+    </desc>
+    <g gorn="0.0"  id="schematic">
+        <rect x="0.15875" height="12.3825" stroke-linecap="round" y="5.23875" width="17.4625" fill="#FFFFFF" class="interior rect" stroke-width="0.3175"  stroke="#000000"/>
+        <line y1="10.16" stroke-linecap="round" y2="10.16" gorn="0.0.1" x1="17.6565" x2="22.7365" fill="none" class="pin" stroke-width="0.246944"  stroke="#787878" id="connector12pin"/>
+        <text x="17.1626" text-anchor="end" y="10.4069" font-size="1.23472" font-family="'Droid Sans'" fill="#8c8c8c" class="text" stroke-width="0"  stroke="none">VOUT</text>
+        <rect x="22.7365" height="0.246944" y="10.0365" gorn="0.0.3" width="0.246944" fill="none" class="terminal" stroke-width="0"  stroke="none" id="connector12terminal"/>
+        <line y1="17.6565" stroke-linecap="round" y2="22.7365" gorn="0.0.4" x1="7.62" x2="7.62" fill="none" class="pin" stroke-width="0.246944"  stroke="#787878" id="connector11pin"/>
+        <g transform="translate(7.86694,17.1626)" >
+            <g >
+                <g transform="rotate(270)" >
+                    <g >
+                        <text x="0" text-anchor="start" y="0" font-size="1.23472" font-family="'Droid Sans'" fill="#8c8c8c" class="text" stroke-width="0"  stroke="none">GND</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect x="7.49653" height="0.246944" y="22.7365" gorn="0.0.6" width="0.246944" fill="none" class="terminal" stroke-width="0"  stroke="none" id="connector11terminal"/>
+        <line y1="0.123472" stroke-linecap="round" y2="5.20347" gorn="0.0.7" x1="7.62" x2="7.62" fill="none" class="pin" stroke-width="0.246944"  stroke="#787878" id="connector13pin"/>
+        <g transform="translate(7.86694,5.69736)" >
+            <g >
+                <g transform="rotate(270)" >
+                    <g >
+                        <text x="0" text-anchor="end" y="0" font-size="1.23472" font-family="'Droid Sans'" fill="#8c8c8c" class="text" stroke-width="0"  stroke="none">VIN</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect x="7.49653" height="0.246944" y="-0.123472" gorn="0.0.9" width="0.246944" fill="none" class="terminal" stroke-width="0"  stroke="none" id="connector13terminal"/>
+        <text x="9.04875" text-anchor="middle" y="9.87194" font-size="1.49931" gorn="0.0.10" font-family="'Droid Sans'" fill="#000000" class="text" stroke-width="0"  stroke="none" id="label">NCP1400</text>
+        <text x="9.04875" text-anchor="middle" y="11.4712" font-size="1.49931" gorn="0.0.11" font-family="'Droid Sans'" fill="#000000" class="text" stroke-width="0"  stroke="none" id="label">Step-Up</text>
+        <text x="9.04875" text-anchor="middle" y="13.0706" font-size="1.49931" gorn="0.0.12" font-family="'Droid Sans'" fill="#000000" class="text" stroke-width="0"  stroke="none" id="label">Breakout</text>
+    </g>
+</svg>

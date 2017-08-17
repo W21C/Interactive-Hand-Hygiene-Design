@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" height="32" y="0px" gorn="0" baseProfile="tiny" width="32"  version="1.0" id="svg2">
+    <desc>
+        <referenceFile>basic_toggle_switch.svg</referenceFile>
+    </desc>
+    <rect x="8.3900003" height="1.0857501" y="27.333277" gorn="0.0" style="fill:#b3b3b3" width="1.7305385"  id="connector0terminal"/>
+    <rect x="15.256528" height="1.0857501" y="27.333277" gorn="0.1" style="fill:#b3b3b3" width="1.7312251"  id="connector1terminal"/>
+    <rect x="22.12237" height="1.0857501" y="27.333277" gorn="0.2" style="fill:#b3b3b3" width="1.7312251"  id="connector2terminal"/>
+    <rect x="8.3900003" height="4.8931136" y="23.527231" gorn="0.3" style="fill:#b3b3b3" width="1.7305385"  id="connector0pin"/>
+    <rect x="15.256528" height="4.8931136" y="23.527231" gorn="0.4" style="fill:#b3b3b3" width="1.7312251"  id="connector1pin"/>
+    <rect x="22.12237" height="4.8931136" y="23.527231" gorn="0.5" style="fill:#b3b3b3" width="1.7312251"  id="connector2pin"/>
+    <g transform="matrix(0.6867216,0,0,0.6580304,23.405029,7.5682501)" >
+        <g gorn="0.6.0"  id="breadboard">
+            <rect x="-21.877001" height="20.785" y="11.025" gorn="0.6.0.0" style="fill:#b3b3b3" width="2.52"  id="rect4"/>
+            <rect x="-11.878" height="20.785" y="11.025" gorn="0.6.0.1" style="fill:#b3b3b3" width="2.5209999"  id="rect6"/>
+            <rect x="-1.88" height="20.785" y="11.025" gorn="0.6.0.2" style="fill:#b3b3b3" width="2.5209999"  id="rect8"/>
+            <polygon gorn="0.6.0.3" style="fill:#b3b3b3"  id="polygon21" points="-17.117,21.169 -19.357,22.169 -21.876,22.169 -24.117,21.169 -24.117,8.99 -17.117,8.99 -17.117,21.169 "/>
+            <polygon gorn="0.6.0.4" style="fill:#b3b3b3"  id="polygon23" points="-7.118,21.169 -9.357,22.169 -11.877,22.169 -14.118,21.169 -14.118,8.99 -7.118,8.99 -7.118,21.169 "/>
+            <polygon gorn="0.6.0.5" style="fill:#b3b3b3"  id="polygon25" points="2.88,21.169 0.641,22.169 -1.878,22.169 -4.119,21.169 -4.119,8.99 2.88,8.99 2.88,21.169 "/>
+            <rect x="-29.115999" height="18.471001" y="-0.233" gorn="0.6.0.6" style="fill:#1a1a1a" width="36.997002"  id="rect27"/>
+            <rect x="-29.115999" height="4.6490002" y="3.3699999" gorn="0.6.0.7" width="36.997002"  id="rect49"/>
+            <rect x="-29.115999" height="5.7480001" y="-0.37900001" gorn="0.6.0.8" style="fill:#333333" width="36.997002"  id="rect51"/>
+            <rect x="-17.761999" height="4.6490002" y="0.182" gorn="0.6.0.9" width="15.56"  id="rect49_1_"/>
+            <rect x="-9.0719995" height="7.3319998" y="-2.6659999" gorn="0.6.0.10" style="fill:#1a1a1a" width="6.6630001"  id="rect27_1_"/>
+            <rect x="-9.0719995" height="3.046" y="-5.7119999" gorn="0.6.0.11" style="fill:#333333" width="6.6630001"  id="rect51_1_"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" height="0.37592in" y="0px" gorn="0" baseProfile="basic" viewBox="0 0 36.998 37.592" xml:space="preserve" width="0.36998in" xmlns:xml="http://www.w3.org/XML/1998/namespace"  version="1.1" id="svg2">
+    <desc>
+        <referenceFile>basic_toggle_switch.svg</referenceFile>
+    </desc>
+    <g gorn="0.0"  id="breadboard">
+        <rect x="6.033" height="1.647" y="35.105" gorn="0.0.0" width="2.52" fill="#8C8C8C"  id="connector0terminal"/>
+        <rect x="16.032" height="1.647" y="35.105" gorn="0.0.1" width="2.521" fill="#8C8C8C"  id="connector1terminal"/>
+        <rect x="26.03" height="1.647" y="35.105" gorn="0.0.2" width="2.521" fill="#8C8C8C"  id="connector2terminal"/>
+        <rect x="6.033" height="7.438" y="29.32" gorn="0.0.3" width="2.52" fill="#8C8C8C"  id="connector0pin"/>
+        <rect x="16.032" height="7.438" y="29.32" gorn="0.0.4" width="2.521" fill="#8C8C8C"  id="connector1pin"/>
+        <rect x="26.03" height="7.438" y="29.32" gorn="0.0.5" width="2.521" fill="#8C8C8C"  id="connector2pin"/>
+        <rect x="6.021" height="20.785" y="15.905" gorn="0.0.6" width="2.52" fill="#8C8C8C"  id="rect4"/>
+        <rect x="16.02" height="20.785" y="15.905" gorn="0.0.7" width="2.521" fill="#8C8C8C"  id="rect6"/>
+        <rect x="26.018" height="20.785" y="15.905" gorn="0.0.8" width="2.521" fill="#8C8C8C"  id="rect8"/>
+        <polygon gorn="0.0.9" fill="#8C8C8C"  id="polygon21" points="10.781,26.049 8.541,27.049 6.022,27.049 3.781,26.049 3.781,13.87 10.781,13.87 "/>
+        <polygon gorn="0.0.10" fill="#8C8C8C"  id="polygon23" points="20.782,26.049 18.539,27.049 16.021,27.049 13.781,26.049 13.781,13.87 &#xa;&#x9;20.782,13.87 "/>
+        <polygon gorn="0.0.11" fill="#8C8C8C"  id="polygon25" points="30.78,26.049 28.537,27.049 26.02,27.049 23.78,26.049 23.78,13.87 30.78,13.87 "/>
+        <rect x="-1.218" height="18.472" y="4.646" gorn="0.0.12" width="36.998" fill="#1A1A1A"  id="rect27"/>
+        <rect x="-1.218" height="4.649" y="8.25" gorn="0.0.13" width="36.998"  id="rect49"/>
+        <rect x="-1.218" height="5.748" y="4.501" gorn="0.0.14" width="36.998" fill="#333333"  id="rect51"/>
+        <rect x="10.136" height="4.649" y="5.062" gorn="0.0.15" width="15.562"  id="rect49_1_"/>
+        <rect x="18.826" height="7.332" y="2.214" gorn="0.0.16" width="6.664" fill="#1A1A1A"  id="rect27_1_"/>
+        <rect x="18.826" height="3.046" y="-0.833" gorn="0.0.17" width="6.664" fill="#333333"  id="rect51_1_"/>
+    </g>
+</svg>

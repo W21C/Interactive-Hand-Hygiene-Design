@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="3.3V_step_up_dd786f25cf1e27f3ebd39b17286b7b50_1" modelIndex="6770" path="/Users/Greg/Documents/Fritzing/parts/user/3.3V_step_up_dd786f25cf1e27f3ebd39b17286b7b50_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_730dff40f731ecd3d7f88908415950b5_1" modelIndex="7486" path="/Users/Greg/Documents/Fritzing/parts/user/prefix0000_730dff40f731ecd3d7f88908415950b5_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

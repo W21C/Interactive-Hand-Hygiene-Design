@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" gorn="0" version="1.1" height="0.37592in" id="svg2" x="0px" y="0px" width="0.36998in" xml:space="preserve" viewBox="0 0 36.998 37.592" baseProfile="basic" >
+    <desc >
+        <referenceFile >basic_toggle_switch.svg</referenceFile>
+    </desc>
+    <g gorn="0.1" id="breadboard" >
+        <rect gorn="0.1.0" height="1.647" id="connector0terminal" x="6.033" y="35.105" fill="#8C8C8C" width="2.52" />
+        <rect gorn="0.1.1" height="1.647" id="connector1terminal" x="16.032" y="35.105" fill="#8C8C8C" width="2.521" />
+        <rect gorn="0.1.2" height="1.647" id="connector2terminal" x="26.03" y="35.105" fill="#8C8C8C" width="2.521" />
+        <rect gorn="0.1.3" height="7.438" id="connector0pin" x="6.033" y="29.32" fill="#8C8C8C" width="2.52" />
+        <rect gorn="0.1.4" height="7.438" id="connector1pin" x="16.032" y="29.32" fill="#8C8C8C" width="2.521" />
+        <rect gorn="0.1.5" height="7.438" id="connector2pin" x="26.03" y="29.32" fill="#8C8C8C" width="2.521" />
+        <rect gorn="0.1.6" height="20.785" id="rect4" x="6.021" y="15.905" fill="#8C8C8C" width="2.52" />
+        <rect gorn="0.1.7" height="20.785" id="rect6" x="16.02" y="15.905" fill="#8C8C8C" width="2.521" />
+        <rect gorn="0.1.8" height="20.785" id="rect8" x="26.018" y="15.905" fill="#8C8C8C" width="2.521" />
+        <polygon points="10.781,26.049 8.541,27.049 6.022,27.049 3.781,26.049 3.781,13.87 10.781,13.87 " gorn="0.1.9" id="polygon21" fill="#8C8C8C" />
+        <polygon points="20.782,26.049 18.539,27.049 16.021,27.049 13.781,26.049 13.781,13.87 &#xa;&#x9;20.782,13.87 " gorn="0.1.10" id="polygon23" fill="#8C8C8C" />
+        <polygon points="30.78,26.049 28.537,27.049 26.02,27.049 23.78,26.049 23.78,13.87 30.78,13.87 " gorn="0.1.11" id="polygon25" fill="#8C8C8C" />
+        <rect gorn="0.1.12" height="18.472" id="rect27" x="-1.218" y="4.646" fill="#1A1A1A" width="36.998" />
+        <rect gorn="0.1.13" height="4.649" id="rect49" x="-1.218" y="8.25" width="36.998" />
+        <rect gorn="0.1.14" height="5.748" id="rect51" x="-1.218" y="4.501" fill="#333333" width="36.998" />
+        <rect gorn="0.1.15" height="4.649" id="rect49_1_" x="10.136" y="5.062" width="15.562" />
+        <rect gorn="0.1.16" height="7.332" id="rect27_1_" x="18.826" y="2.214" fill="#1A1A1A" width="6.664" />
+        <rect gorn="0.1.17" height="3.046" id="rect51_1_" x="18.826" y="-0.833" fill="#333333" width="6.664" />
+    </g>
+</svg>
