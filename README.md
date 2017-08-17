@@ -1,4 +1,4 @@
-# Interactive-Hand-Hygiene-Design
+# W21c Hand Hygiene QI Project
 
 This project builds on code written by the Emily Carr University of Art + Design and Vancouver Coastal Health.
 
