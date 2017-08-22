@@ -14,13 +14,13 @@ Emily Carr University of Art + Design's Health Design Lab developed the original
 
 ## Tech Details
 
-This Quality Improvement project uses Xbees embedded into hand hygiene dispensers to track usage of hand hygiene dispensers on a hospital unit. The Xbees communicate with a Processing sketch via an arduino and serial communication.
+The most recent W21C project uses Xbees embedded into hand hygiene dispensers to track usage of hand hygiene dispensers on a hospital unit. The Xbees communicate with a Processing sketch via an arduino and serial communication.
 
 Software Folder: Processing code for recording and visualizing dispenser use.
 
 Hardware Folder: Specifications for networked hand hygiene dispensers using Xbees and Arduinos, as well as a parts list that includes video terminals and computing. 
 
-## General Results
+## Impact and Efficacy
 
 A Quality Improvement project by W21C at Foothills Medical Center produced results that indicate interaction design successfully increases hand hygiene compliance and that frequency of use of the modified hand hygiene dispensers correlates with hand hygiene compliance. 
 
