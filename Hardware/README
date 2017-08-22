@@ -1,11 +1,11 @@
 
 This folder contains the hardware specifications neccasary to retrofit hand hygiene dispensers for interaction design. 
 
-Fritzing - design of the  electronics hardware
+Fritzing - Fritzing file for the schematic and PCB design
 
-PCB schematics - graphical representation of the electrical circuit
+PCB schematics - PCB digram for Transmitters and Receivers for the XBee network
 
-Functional Breakdown - support to build the modified hand hygiene dispensers
+Functional Breakdown - support to build and install the modified hand hygiene dispensers
 
 Parts list - all of the hardware components (i.e., Xbees, arduinos, batterypacks, CPU) used to build wirless Xbee networks 
 and display the data on TV monitors. 
