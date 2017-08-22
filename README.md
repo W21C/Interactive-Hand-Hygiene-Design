@@ -1,6 +1,7 @@
 # Interactive Hand Hygiene Design
 
 W21C: http://w21c.org/
+
 ECUAD: http://research.ecuad.ca/healthdesignlab/
 
 # Project Background
