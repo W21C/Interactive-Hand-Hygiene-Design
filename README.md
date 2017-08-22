@@ -6,7 +6,7 @@ ECUAD: http://research.ecuad.ca/healthdesignlab/
 
 # Project Background
 
-This repository contains the hardware and software specifications neccesary to retrofit hand hygiene dispensers to capture real-time, continuous data and display that information in an interactive way. 
+This repository contains the hardware and software specifications neccesary to retrofit hand hygiene dispensers to capture real-time, continuous data and display that information with interactive design.  
 
 # Collaboration
 
