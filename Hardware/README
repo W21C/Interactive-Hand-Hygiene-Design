@@ -1,0 +1,18 @@
+
+This folder contains the hardware specifications neccasary to retrofit hand hygiene dispensers for interaction design. 
+Fritzing, PCB, Schematic, Functional Breakdown, Parts list, Xbee Migration, Switch
+
+Fritzing - design of the  electronics hardware
+
+PCB schematics - graphical representation of the electrical circuit
+
+Functional Breakdown - support to build the modified hand hygiene dispensers
+
+Parts list - all of the hardware components (i.e., Xbees, arduinos, batterypacks, CPU) used to build wirless Xbee networks 
+and display the data on TV monitors. 
+
+Xbee Migration - guide to  assist you with migrating from the XBee/XBee-PRO ZB (S2/S2B) to the XBee/XBee-PRO ZB
+(S2C) Through-Hole modules.
+
+Switch Integration - The switch used in the current version was plastered onto the hand hygiene dispenser with sugru. 
+Our team would recommend creatively constructing an alternative to our 'switch and sugru' solution. Have fun !
