@@ -1,3 +1,5 @@
+2019-09-06: This repository is no-longer being updated, and is out dated. A new more comprehensive version has been released September 2019.
+
 # Interactive Hand Hygiene Design
 
 W21C: http://w21c.org/
